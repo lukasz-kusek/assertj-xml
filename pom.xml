@@ -34,7 +34,7 @@
         <version>-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.github.lukasz-kusek.assertj-xml</groupId>
+    <groupId>com.github.lukasz-kusek</groupId>
     <artifactId>assertj-xml</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
