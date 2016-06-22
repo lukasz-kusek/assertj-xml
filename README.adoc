@@ -18,23 +18,19 @@ See XML Comparator library (https://github.com/lukasz-kusek/xml-comparator) for 
 Add dependency and repository to your pom file
 
 [source,xml]
----
 <dependency>
     <groupId>com.github.lukasz-kusek</groupId>
     <artifactId>assertj-xml</artifactId>
     <version>-SNAPSHOT</version>
 </dependency>
----
 
 [source,xml]
----
 <repositories>
     <repository>
         <id>jitpack</id>
         <url>https://jitpack.io</url>
     </repository>
 </repositories>
----
 
 === COPYRIGHT
 
